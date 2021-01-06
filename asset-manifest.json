@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/css/main.34c2db9f.chunk.css",
+    "main.js": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/js/main.0617dfda.chunk.js",
+    "main.js.map": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/js/main.0617dfda.chunk.js.map",
+    "runtime-main.js": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/js/runtime-main.6949df01.js",
+    "runtime-main.js.map": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/js/runtime-main.6949df01.js.map",
+    "static/js/2.eceae734.chunk.js": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/js/2.eceae734.chunk.js",
+    "static/js/2.eceae734.chunk.js.map": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/js/2.eceae734.chunk.js.map",
+    "static/js/3.73bb8189.chunk.js": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/js/3.73bb8189.chunk.js",
+    "static/js/3.73bb8189.chunk.js.map": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/js/3.73bb8189.chunk.js.map",
+    "index.html": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/index.html",
+    "static/css/main.34c2db9f.chunk.css.map": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/css/main.34c2db9f.chunk.css.map",
+    "static/js/2.eceae734.chunk.js.LICENSE.txt": "/NguyenTanThang/Dev-Challenge---Button-Component-Demo/static/js/2.eceae734.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6949df01.js",
+    "static/js/2.eceae734.chunk.js",
+    "static/css/main.34c2db9f.chunk.css",
+    "static/js/main.0617dfda.chunk.js"
+  ]
+}
